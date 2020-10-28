@@ -1,0 +1,43 @@
+.wrap{
+	background-image: url("https://i.pinimg.com/originals/30/db/24/30db2442090512ff92eac1bdf372e49b.jpg");
+	margin:10px auto;
+	font-family: 'Open Sans', sans-serif;
+}
+ 
+.wrap .menu ul{
+	padding: 0;
+	overflow: hidden;
+}
+ 
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+
+.wrap .badan .sidebar{
+
+	float: left;	
+	width: 25%;
+	height: 100%;
+}
+ 
+.wrap .badan .content{
+
+	float: left;
+	height: 100%;
+	width: 75%;	
+}
+ 
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
